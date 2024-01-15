@@ -13,7 +13,7 @@ Ce projet est une simulation de mouvements d'aventuriers sur une carte. Les aven
 
 1. Créez un fichier d'entrée avec les instructions pour la carte et les aventuriers. Chaque instruction doit être sur une nouvelle ligne. Les lignes commençant par un "#" seront ignorées.
 2. Exécutez le programme avec la commande `node treasure_map.js input.txt` (remplacez `input.txt` par le nom de votre fichier d'entrée).
-3. Le programme affichera la carte finale et les positions des aventuriers dans le fichier `output.txt`.
+3. Le programme affichera les positions des aventuriers dans le fichier `output.txt`.
 
 ## Format du fichier d'entrée
 
